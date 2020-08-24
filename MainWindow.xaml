@@ -43,7 +43,7 @@
         <Button x:Name="button_Reset" Content="Reset" Grid.Column="7"  Grid.Row="1" VerticalAlignment="Center" Width="75" Click="button_Click_Reset"/>
         <TextBlock x:Name="pt" Grid.Column="0" Grid.Row="3" Text="." />
         <TextBlock x:Name="rank" Grid.Column="7" Grid.Row="3" Text="Top" TextAlignment="Center" VerticalAlignment="Center" />
-        <TextBlock x:Name="debug" Grid.Column="7" Grid.Row="0" Text="Debug" TextAlignment="Center" VerticalAlignment="Center" />
+        <TextBlock x:Name="debug"  Text="Dfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffebugffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff" TextAlignment="Center" VerticalAlignment="Center" Grid.ColumnSpan="8" Height="69" />
 
 
     </Grid>
